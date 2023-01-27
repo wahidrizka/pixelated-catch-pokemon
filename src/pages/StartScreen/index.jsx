@@ -11,11 +11,11 @@ const StartScreen = () => {
   return (
     <T.Container>
       <T.Centering>
-        <Text as="h1" variant="outlined" size="xl">
-          CATCH POKEMON GAMES
+        <Text variant="outlined" size="lg">
+          LET'S CATCH POKEMON
         </Text>
         <Button onClick={() => navigate("/pokemons")}>
-          Let's Get Started
+          START
         </Button>
         <Text variant="outlined" size="base">
           Source API{" "}
@@ -26,7 +26,7 @@ const StartScreen = () => {
       </T.Centering>
       <div style={{ position: "absolute", bottom: 18 }}>
         <Text variant="outlined">
-          &copy;{new Date().getFullYear()} wahidrizka
+          &copy;{new Date().getFullYear()} wahidrizkafathurrohman
         </Text>
       </div>
     </T.Container>
