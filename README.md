@@ -31,16 +31,16 @@ Pokegames is created using:
 #### Run the website locally
 
 ```
-git clone https://github.com/radespratama/pokegames.git pokegames
+git clone https://github.com/wahidrizka/pixelated-catch-pokemon.git
 ```
 
-### Install deps
+#### Install deps
 
 ```
 npm install
 ```
 
-### Starting serve
+#### Starting serve
 
 ```
 yarn dev || npm run dev
