@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" width="600" src="https://raw.githubusercontent.com/wahidrizka/pixelated-catch-pokemon/main/public/pokemon-games.png?raw=true" />
+  <img align="center" width="100" src="https://raw.githubusercontent.com/wahidrizka/pixelated-catch-pokemon/main/public/pokemon-games.png?raw=true" />
   <h3 align="center">⚡ Pixelated Catch Pokemon Games</h3>
 </div>
 
