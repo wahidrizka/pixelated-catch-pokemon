@@ -43,7 +43,7 @@ npm install
 #### Starting serve
 
 ```
-yarn dev || npm run dev
+npm start
 ```
 
 ## Contributing 😁
